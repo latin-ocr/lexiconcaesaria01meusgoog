@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconcaesaria01meusgoog_0006.png"; bbox 0 0 3764 5588; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 269 509 1557 1156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 269 351 1557 1156">
+     <span class='ocr_line' id='line_1_1' title="bbox 558 509 1277 728; baseline 0.011 -7"><span class='ocrx_word' id='word_1_1' title='bbox 558 509 1277 728; x_wconf 79' lang='lat' dir='ltr'>LEXIOON</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 269 941 1557 1156; baseline -0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 269 941 1557 1156; x_wconf 71' lang='lat' dir='ltr'><strong>CAESARIANUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 795 1475 1027 1569">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 795 1475 1027 1569">
+     <span class='ocr_line' id='line_1_3' title="bbox 795 1475 1027 1569; baseline 0.004 -1"><span class='ocrx_word' id='word_1_3' title='bbox 795 1475 1027 1569; x_wconf 84' lang='lat' dir='ltr'><strong>CONFECIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 625 1749 1200 2080">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 625 1749 1200 2080">
+     <span class='ocr_line' id='line_1_4' title="bbox 625 1749 1200 2080; baseline -0.002 -46"><span class='ocrx_word' id='word_1_4' title='bbox 625 1749 906 2080; x_wconf 45' lang='lat' dir='ltr'><strong>H÷»³*‘ffiss</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 934 1880 985 2035; x_wconf 83' lang='lat' dir='ltr'><strong>U</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1011 1877 1055 2034; x_wconf 78' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_7' title='bbox 1079 1878 1200 2034; x_wconf 80' lang='lat' dir='ltr'><strong>EL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 811 2410 1018 2434">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 811 2410 1018 2434">
+     <span class='ocr_line' id='line_1_5' title="bbox 811 2410 1018 2434; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 811 2410 1018 2434; x_wconf 59' lang='lat'><strong>&#39;‘5⁸¹’‘—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 761 2839 1057 2935">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 761 2839 1057 2935">
+     <span class='ocr_line' id='line_1_6' title="bbox 761 2839 1057 2935; baseline 0.003 -2"><span class='ocrx_word' id='word_1_9' title='bbox 761 2839 999 2935; x_wconf 87' lang='lat' dir='ltr'>VOLUMEN</span> <span class='ocrx_word' id='word_1_10' title='bbox 1025 2841 1057 2934; x_wconf 83' lang='grc' dir='ltr'><strong>Π</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1886 5588">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1886 5588">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1886 5588; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1886 5588; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
